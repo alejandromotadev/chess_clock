@@ -8,7 +8,7 @@ abstract class TimerState extends Equatable {
 }
 
 class TimerInitial extends TimerState {
-  const TimerInitial(duration) : super(duration);
+  const TimerInitial(int duration) : super(duration);
 }
 
 class TimerRunInProgress extends TimerState {

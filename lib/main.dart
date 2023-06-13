@@ -1,4 +1,4 @@
-import 'package:chess_clock/features/timer/presentation/pages/timer.dart';
+import 'package:chess_clock/features/timer/presentation/views/timer.dart';
 import 'package:flutter/material.dart';
 import 'package:chess_clock/features/timer/presentation/blocs/timer_bloc.dart';
 import 'package:chess_clock/features/timer/data/models/ticker.dart';
